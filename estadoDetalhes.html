@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estado</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    
+</head>
+<body style="height: 100vh; display: flex; flex-direction: column;">
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="index.html">
+            <img src="assets/brasil.png" width="80" height="80" alt="Logo">
+        </a>
+        <h1 class="mb-0 ml-3 mr-auto" id="estadoNome">
+            <!-- Nome do Estado -->
+        </h1>
+    </nav>
+
+    <!-- Corpo da Página -->
+    <div class="container-fluid flex-grow-1 d-flex my-t" style="overflow: hidden;">
+
+        <!-- Coluna esquerda (barra de pesquisa e lista de municípios) -->
+        <div class="col-md-4 d-flex flex-column" style="overflow-y: auto; max-height: calc(100vh - 56px);">
+            <div class="form-group">
+                <input id="search-input" class="form-control" type="search" placeholder="Pesquisar município" aria-label="Pesquisar">
+            </div>
+
+            <!-- Lista de municípios com rolamento -->
+            <ul id="municipio-list" class="list-group" style="flex-grow: 1; overflow-y: auto; padding-right: 15px;">
+                <!-- Lista de municípios será populada aqui -->
+            </ul>
+        </div>
+
+        <!-- Coluna direita (SVG) -->
+        <div class="col-md-8 d-flex justify-content-center align-items-center flex-grow-1">
+            <object id="mapa-svg" type="image/svg+xml" style="max-width: 100%; max-height: 100%;">
+                Seu navegador não suporta SVG.
+            </object>
+        </div>
+
+
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/jquery.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/estados.js"></script>
+    <script src="js/svgHoverEstado.js"></script>
+
+</body>
+</html>

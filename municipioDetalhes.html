@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes do Município</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="index.html">
+            <img src="assets/brasil.png" width="80" height="80" alt="Logo">
+        </a>
+        <h1 class="mb-0 ml-3 mr-auto">
+            Produção agrícola dos municípios
+        </h1>
+    </nav>
+    <div class="container my-5">
+        <h1 id="nomeMunicipio" class="text-center mb-4"></h1>
+        
+        <div class="d-flex justify-content-center mb-4">
+            <select id="selecao-cultura" class="custom-select w-50">
+                <option value="839">Milho</option>
+                <option value="1001">Batata-inglesa</option>
+                <option value="1002">Feijão</option>
+                <option value="1000">Amendoim</option>
+            </select>
+        </div>
+
+        <!-- Gráficos -->
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <h4 class="text-center">Área plantada e colhida (Hectares)</h4>
+                <div id="grafico-area"></div>
+            </div>
+            <div class="col-md-12 mb-5">
+                <h4 class="text-center">Quantidade Produzida (Toneladas)</h4>
+                <div id="grafico-quantidade"></div>
+            </div>
+            <div class="col-md-12">
+                <h4 class="text-center">Rendimento Médio (Quilogramas por Hectare)</h4>
+                <div id="grafico-rendimento"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/municipioDetalhes.js"></script>
+</body>
+</html>

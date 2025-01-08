@@ -1,0 +1,559 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="map" version="1.2" width="800" height="800" viewBox="605 230 120 75">
+
+
+<path id="Abreu_e_Lima" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m718.43 262.63 1.36.35 1.32-.25.64.09.1.33-.57.06-.23.4-.98-.37-1 .01-.23.24-.32-.36-.9-.48-.39-.57-.32-1.02.6.6.12-.38.55.13z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Afogados_da_Ingazeira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m674.15 258.37.15.47-.13.37.35.55.23.84-.7.72-.21.38-.52.42-.2.76-.96-1.26-.29-.2-.3-.58.4-.32-.18-.41.03-.85.2-.78-.44-.51h.93l.31.39.4-.22z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Afrânio" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m615.76 271.3.17 1.32.07 1.93.2.25 1.4.97-2.7 2.69-.26-.1-.33.32v.64l-.26.3-.35-.33-.76.36-.06-.61-.2-.4-1.19-.1-.45-.65-.04-.7-.8.13-.86-.12-.22.25-.45.06-.27.24-.99-.14-.43-.35h.38l.65-.45.23-.38h.63l.67-.3.27-.91.56-.21.3-.82.41.14.64-.52.24-.71.34.09.33-.81.56-.2.13-.36.38-.03.91.85.43-.41-.09-.4.31-.25-.13-.35.44-.17z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Agrestina" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m703.1 271.2.32.33-.25.24-.04.41.3.24-.01.5.28.63-.24.28.39.58-.35.25-.41-.1-.45-.36-.37.01-.6-1.85-.14-.7.06-.53.34.5.28-.17v-.38z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Água_Preta" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.07 274.4.48.19-.78.48.24.78 1.4.96-.15.54 1.1.2.02.4L713 279l-.64.26-.2.3-.88.02-.21-.4-.44.21-.4-.2-.39.07-.54.4-.2.06-.54-.57.12-.68.06-.6.79-.44-.12-.6.48-.44.44-.4-.2-1 .05-.4.59-.9z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Águas_Belas" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m683.05 287.86-.04.18.01-.63-.59-.63-.46-.1-.24.34-.69.1.16-.48-.68-.41.23-.27.44-1.07-.03-1.18.12-.35.7-.76.3-.7.93-.88.94-.43.91.02.71.2.58-.39.05.02-.4.8.07.16-.3.96-.41.5-.26.75-.8 1.1.15.51.54.5-.11.44-.38.58-1.12.55z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Alagoinha" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m688.3 275.33-.43-.18-.07-.79-.7-.72.07-1.43.02-.09.11.23.54-.14 1.46-.03.44 1.85-.64.14-.23.46z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Aliança" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m716.62 255.94.3.18.25.45.5.1-.57.38-.3.96.44.88-.63.34.03.37-.52-.38-.47-.12-.52.28-.32-.38.03-.56-.28-.93.32-.83.83-.4z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Altinho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m701.59 271.13-.06.53.14.7.6 1.85-.5.2-1.45.6-.28.18-1.3-.8-1.08.48-.67-.19.43-.78.45-.53 1.48-1.05.05-.48.58-.32.63-.01.46.06z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Amaraji" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m712.22 272.3-.34-.02-.36.45-.3.07-.77-.42-.3-.83-.23-.08-.21-.73-.18-.17.85-.51.19.13.58-.83.89 1.2.75.91z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Angelim" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m696.41 279.48.53.1.95.8-.3.87-.4.34h-.89l-.28-1.5.12-.44-.47-.74.23-.03.29.5z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Araçoiaba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m718.43 262.63-.25-1.21-.55-.13-.12.37-.6-.6.53-.75.18-.46.14.3.67.17.26.32v.46l.33.36-.2.19-.08.76z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Araripina" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m624.9 252.88 1.29 4.12-1.55 2.6.11 2.04.15.43-1.93.5-.06.27-.66.47-.43.58-.12.8h-.61l.3-.62-.04-.44.14-1.41-.3-.68-.41-.24-1.18-.32-.5-.45.12-.62.55-.47.24-.73-.08-.47-.34-.67-.63-.65-.41-.69-.18-.68.24-.42.67-.13.19-.28 1.84-.72.12-1.07.32-.24 1.32.75.97.13.58-.22z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Arcoverde" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m685.78 272.51-.38.43-.4-.35-.67.11-.36.27-.35.58-1.19-1.02-.86-.25-.18-.4.83-.35.55-.54.41-.1.3-.86.18-.17.52.23.65-.06.14-.39.42-.13.26-.3-.02.75-.63 1.38-.06.41.4.53z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Barra_de_Guabiraba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m709.16 272.37-1.56 1.1-.34-.93.13-.87-.39-.33.8.09.37-.08 1.5-.4-.84 1.09z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Barreiros" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m717.58 278.62-.27.3-.3.72.08.35-.16-.34.04-.24-2.18.46.45.49-.31.07-1.74-.47-.77-.2-.26-.2.2-.3.64-.26.8-.25.57-.05 1.07-.63.56.36.7.02.48.46z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Belém_de_Maria" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m705.25 275.25.72 1.4-.9-.01.05-.41-.47-.33-.34-.44.06-.24.2-.25-.3-.7.54-.24.2.47v.59z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Belém_do_São_Francisco" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m655.24 275.71-3.8 1.32-.18.53-.01 1.05-1.3.2-.42.15-.45-.2-.4-.57-.6-.44-.54-.08-1.4-.34-.42-.34-.6.33-.58-.1-.2-.39-.04-1.04-.27-.18-.17-.55.56-.77.68-.5.66-.25.35.22.7-.95.32-.14.1-.62.33-.08-.05-.4.35-.11.88-.1.05-.35 1.16.03.3-.46.4.3.33 1.08.35.3.02.76.27.14.08.51.54.15.74 1.08 1.6.38z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Belo_Jardim" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m698.04 268.73.02.19-.8.7-1.44.36-.03.46-.47 1.19-1.1-.04-.22.2-.6-.15-.19.3-.53-.1.31-.3.15-1.23-.29.17-.42-.3.47-.34.22-.63-.4-.4-.39.17-.53.77-.8-1.25.44-.12.6.08 1-1.36.83.23 1.27 1.09.32.2.4-.97 1.1-.05.53.12-.15.43.17.28z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Betânia" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m669.68 266.18.23 2.1-.3.49-.47.3-.29.9.1.5-.09.38-.64.84-.37.29-.27.5-.64.37-.98-.14-.43.1-.58-.41-.04-.21-.72-.26-.8-.15-.03-.42-.23-.31-.2-.67.02-.48.25-.26.08-.52.39-.42.59-.05.22-.6.77-.7.6-.24.83-.9.75-.25.34.12.69-.01.56.16z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Bezerros" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m708.25 266.58-.45.97.07.78-1.06.38-.13.43-.7.73-.19.41-.42.28-.3.57-.63.3-.24-.06-.78.16-.31-.32.55-.26.65-.84.03-.55-.5-1.17-.16-.6.72-.32.21-.7 3.3-.16z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Bodocó" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m632.68 253.04.01 6.52 1.58-.29.92 3.92-1.6 2.04-.89-.9-.12-.64-.4-.45-.13-.42.22-.66-.15-.51-.78-.36-.68-.21-1.13.29-.36-2.16-.94-5.57.52.18 1.46-.02.78-.11 1.32-.6z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Bom_Conselho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m692.28 284.21.05.03.34.61-.26.83.1.7.24.18.12.5-1.26.53.09.68-.71.17-.32-.16-.35-.3-.47-.03-.5-.36-1.1-.38-.63.16-.69.15-.56-.36-.22.14-.06-.22.2-1.7 1.83-.54-.27-.42.13-.26.47-.19.18-.46.62-.72.3-.02-.02.86-.31.8.89.24.52-.23.33.13.8-.05z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Bom_Jardim" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.99 259.81-.68-.13-.44.52-.05.62.14.34-.47.22-.28-.16-.88.6-2.02.16-.07.06-.36-.28.04-.98h.6l.02-.34.54.03.45.43.51-.71.65-.45.4.57.73-.34.7-.66z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Bonito" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m709.16 272.37.48.03.15.92-.48.24-.32.34-.46.2-1.49.31.08.9-.35-.3-.29.22-.44-.2-.29.3-.5-.08-.25-.17v-.59l-.2-.47.14-.43-.35-.4.26-.32.65.05.43-.39.11-.99.58.05.38-.26.4.33-.14.87.34.93z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Brejão" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m693.25 283.94-.92.3-.05-.03-.23-.4-.56-.24-.4-.56.18-.67.62-.52h.43l.38-.2.52.28z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Brejinho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m679.42 251.91-.02.6-.2.34-.17.75.22.42-.35.03-.42-.5-.95.22h-.76l-.38-.4h.82l.64-.39-.13-.25.51-.58.25.02h.45z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Brejo_da_Madre_de_Deus" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m698.8 264.13.95.11-.01.44-.75.63-.47.68.24.85-.2.46.72.8.27-.05-.3.1-.96.77-.25-.2-.54-.29-.17-.28.15-.43-.53-.13-1.1.05-.4.97-.32-.2-1.27-1.09 1.12-3-1.12-.98.37.03.4.28 1.33.54.6-.44.5.18.64.02.88.24z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Buenos_Aires" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m714.8 259-.79 1.6-.23.15-1.34-.22-.23.24-.57-.45.45-.17.5-.3.25-.5.25.25.6-.1.46.13z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Buíque" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m681.4 271.88.18.4.85.26 1.2 1.02-.86.63.43.14.8-.01.23.28.31 2.71-.39 3.28-.95.43-.93.88-.03-.19.35-.74-.12-.4.07-.72-.64-.77-.38-.2-.33-.59-.92-.4-.8-.04-.54-.79-.02-.63-.21-.34 1.39-4.18.64.27z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Cabo_de_Santo_Agostinho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m718.25 268.68 1.02-.3.53.44.29-.22.31.42.25-.3-.42 1.28.16.13-.32 1.1-.45-.25-.67.18-.39-.26-.36.02-.2-.27h-.53l-.56-.43-.2-.55-.7.26-.84-.04-.47-.63v-.23l.18-.7.24.17.46-.45.9.53.28-.58.7.1.55.51z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Cabrobó" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m643.07 267.96.28.8.92-.24.72.23 2.87 2.7-.35.11.05.41-.33.08-.1.62-.32.14-.7.95-.36-.22-.66.25-.68.5-.56.77-.24-.36-1.04-.09-.2-.2-.4-.25-.64.16-.35.37h-.3l-.41.53-.02-1.04-.65-.36-.65-.9-.26-.86.25-1.05.19-.3-.51-1.57.52-.2.8.17.54-.16.32.14.54-.1.45.24.57-1.03z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Cachoeirinha" fill="#ccccb8" stroke="#000" stroke-width=".25" d="M696.99 274.69h-.11l-1.03.92.07-.77.37-.7-.24-.77-.62-1.1-.1-.64.44.1 1.98 1.04.12.6-.45.54z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Caetés" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m692.16 278.6-.74.74.68.98-.34.17-.75.02-.13.26-.7-.71-.35-.2.08-.4-1.62.03-.35-.57.35-.48-.27-.23.02-.52 1.25-.15 1.31.57.15.27.74-.02.4-.21z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Calçado" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m696.41 279.48-.23-.1-.29-.5-.75-.98.04-1-.23-.92 2.35 2.68z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Calumbi" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m665.42 263.36.32.72-.98.92.73.32.25.55.33.35 1.35-.26-.74.26-.82.89-1.22-1.41-.92-1.92-.33-.3.08-.42.77.06.59.28z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Camaragibe" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m719.38 263.49-.06.54.73.26-.05.8-.54.3-.26.02-.1-.84.14-.32-.4-.24-.1-.32.14-.11z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Camocim_de_São_Félix" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m706.63 271.6-.58-.05-.32-.2-1.17.26-.12-.17.63-.31.3-.57.42-.27.2-.41.5.43-.16.42z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Camutanga" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m715.2 254.85-.4-.35-.94 1.01-.52-.99.17-.12.16.1.9-.29z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Canhotinho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m699.58 279.54-.08.1 1.14.93.49.24-.54.12-.33.45-.81.3-.01.34.43.39-.12.33-.52.22-1.06-.18-.32-.26-.45-.1.06-.85.12-.32.31-.87-.95-.8-.53-.1.9-.82.53-1.3.42-.03h.14l-.52 1.44.72-.16.5.43v.34z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Capoeiras" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m693.1 277.19-.48.5-.02.66.5.45-.94-.2-.28-.45-.39.2-.74.02-.15-.27-1.3-.57.22-.94.27-.22-.22-.43.45-.7.84-.65.19.66.28.1.35.65.45-.25.15.63.56.37z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Carnaíba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m671.58 257.96.44.51-.2.78-.03.85.18.41-.4.32.3.6.3.18.96 1.26v.03l-.25.07-.7 1.21-.38.27-.96-1.98-1.5-.87-.28-.35.86-.85.27-1.25.28-.47.4-.05-.16-.5.14-.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Carnaubeira_da_Penha" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m656.64 269.83-1.4 5.9v-.02l-.66-.43-1.6-.38-.74-1.08-.54-.15-.08-.5-.27-.14-.02-.76-.35-.3-.33-1.08-.4-.3 1.26-.97.49-.72 1.29.18 1.58.8.38.35 1-.2z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Carpina" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m714.01 260.6.92.76.46.27.2 1.15-.47-.03-.48.1-.37-.33.12-.6-.16-.2-.76-.12-.43.11-.3-.18-.52.11v-.87l.23-.24 1.34.22z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Caruaru" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m702.46 264.56.5.05.24.21-1.23 2.46.16.4.95.65.1-.29.66.34.5 1.17-.03.55-.65.84-.55.26-.9-.12v.38l-.27.16-.35-.49-.52.43-.46-.06.02-.35-.23-2.14-.85-.96-.27.05-.72-.8.2-.46-.24-.85.47-.68.75-.63.25.14.27.31.7-.28.56-.04-.01-.29.1-.2z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Casinhas" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m707.38 259.5.24.6.47.36-.54-.03-.02.34h-.61l-.04 1-.8-.4-.24-.66-.41-.55.94-.56.73-.27z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Catende" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m707.13 275.3.28.15-.31.47.47.64-.7 1.08.72-.02.07.18-1.01 1.1-.06-.73-.31-.16-.58.28.5-.77-.11-.4-.46.2-.7-.28.08-.36.06-.04h.9l-.72-1.39.5.08.3-.3.44.2.29-.23z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Cedro" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m646.09 259.76.7.74.08.2-.24.1-2.73.22-.21-.68.43-.88-.15-.64.3.33-.05.38.78-.27.66.45z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Chã_de_Alegria" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m716.45 264.33-.67.61-.34.17-.65.65.1-1.04.53-.77z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Chã_Grande" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.63 269.2-.48.15-.58.83-.2-.13-.05-1.36.52-.46-.06-.3.67-.19.23.27.12.55z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Condado" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m718.1 258-.26.38-.6.54v-.02l-.44-.88.3-.96.57-.38.63-.04.25.39-.4.32.17.5z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Correntes" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m698.25 283.21-.26.5-.54.46-.46.05.17.67-.13.46-.48.14-.53.2-.1.27-.5.31-.83.1-.22-2.4-.48-.28-.4.1.98-.69.76-.36.12.51.31.1.83-.06.74.17z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Cortês" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.51 272.73-.18.19-.79.28v.35l-.26.12-.48-.35-.15-.92-.48-.03-.33-.33.84-1.08.03-.22.2.73.24.08.3.83.77.42z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Cumaru" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m707.83 263.75.77 1.2-.4.23-.12.3-.44.1.25.46.02.56-3.3.16-.08-.76.72-.54.24-.46.46-.05.04-.66.3-.16.91-.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Cupira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m703.85 274.42-.08.52.19.27.4.02-.06.23-.78.1-.88.3-.4-.25-.46-1.2.49-.2h.37l.45.35.4.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Custódia" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m674.47 264.37.53 1.39-.34.59-.04.78.29.56-.01.34-.4.52-.03.34-1.03 1.47-1.62 1.37-1.71.32.05-.54-.3-.18-.75.46-.49.15-.4-.26.64-.84.1-.37-.1-.5.29-.9.47-.3.3-.5-.23-2.1.2-.03.28-.84 1.4-.5.23-.35.38-.27.7-1.2.25-.08.55-.09.6.58-.06.36-.4.3.3.54z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Dormentes" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m623.3 271.63.98.47.26.26.21.64-.07.51.2.23-.44-.13-.15.47-.67.56-.28.77-.23.28.3.45-2.64.4-3.17-.78-1.4-.97-.2-.25-.07-1.93-.17-1.32.43.18.32-.35.03-.72h.44l.23-.43.28.12.14.42.7.44.24-.07.78.56.65-.19.87-.1 1.38.13.75-.12z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Escada" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m716.91 270.23-.25.19-.29.6-.4.05v.33l-.79.73.63 1.08-.66-.06-.58.22-.3-.42-.46.26-.27-.74-.26-.16.07-.27-.4-.3.36-.34-.26-1.34.34-.1.69.23.43-.4.2-.75v.23l.47.63.84.04.69-.26z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Exu" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m638.09 254.65.49.02.16.54.29.4v.46l-.3.53.17.44-.35.43-.47.32-.3.65.2.54-.2.52-.53-.1-.57-.4-.59.15-.27-.22-.68-.09-.87.43-1.58.3v-6.53l.25.03.57-.26.51.12 1.55-.09.62.2 1.07.75.34.82z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Feira_Nova" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m714 263.7-1.47 1.1-1.23-.26.27-.49.47-.66 1.06-.59.56.73z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Fernando_de_Noronha" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m765.33 190.96.1.42-.51.49-.41-.4.7-.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ferreiros" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m716.62 255.94-.9.35-.43-.3-.47.08-.83-.16-.13-.4.95-1 .39.35.2.23z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Flores" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m669.07 261.25.28.35 1.5.87.96 1.98-.23.36-1.41.5-.28.84-.2.03-.67.05-.56-.16h-.7l-.33-.12-1.35.26-.33-.35-.25-.55-.73-.32.98-.92-.32-.72.48-.27.24-.45.05-1.12-.22-.46.36-.22.53-.03.23-.2 1.38.26z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Floresta" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m663.2 269.63-.25.26-.02.48.2.67.23.31.04.42.79.16.72.26.04.2.59.42.43-.1.98.14.64-.37.27-.5.37-.3.4.26.49-.15.75-.46.29.18-.05.54-1.15 3.2-1.4.4-.34.3-.03.31-.4.1-.31-.18-.56.1-.26.1-.17.48-.3-.02-.55.18-1 .03-.64-.34-.76.2-.47.35-.16.8-.65.02-.28.25-.94.38-.62.48-.85.42-.21.44-.2-.3-.56-.32-.7-.14-.32.14-.66 1.1-.05 1.14-.44.52-.7-.26-.25-.44-.08-.5.56-.36.08-1.22-.11-.4.19-1.38.4-.8.01-1.1 1.41-5.9.75.34.13.24-.09.66-.23.76.05.67.81-.65.34-.61.57-.46.2-.63.69-.44.94.19.42-.11.46-.55 1.03.55z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Frei_Miguelinho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m705.15 264.27-1.3.3-.65.26-.24-.21-.5-.05-.11-.4-.04-1.05.17-.17.8-.06v-.28l.67-.28.9-.07.25 1-.17.73z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Gameleira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m714.72 275.9-.78-.05-.61.42-.27.66.3.27v.35l-1.1-.2.16-.54-1.41-.97-.24-.78.78-.48-.48-.19.14-.59.6-.07.02.55.65.27.6-.23.41.62.62.42z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Garanhuns" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m693.1 278.8.75.1-.32.78.25.65.57.43.32.57-.03.31.4.58.2.52-.76.36-1 .7-.22.13-.04-2.04-.52-.28-.38.21h-.43l-.62.51-.17.67-.65-.22.2-.32-.2-.28.1-.53.44-.26-.1-.63.13-.26.75-.02.34-.17-.68-.98.74-.74z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Glória_do_Goitá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m714.86 263.73.56.23-.53.77-.1 1.04-.66.23-.84-.34-.76.4-.73.12v0l-.17-.73-.47-.15.15-.75 1.23.26 1.47-1.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Goiana" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m721.98 256.6.35.16.04.48.4.97-.45.95-.25.07-.25.42-.4.05-.34-.55-.32.13-.04.02-2.62-1.3.22-.14-.17-.51.4-.32-.24-.4-.3-.48 1.64-.91v.67l.44.68.49-.18.28.24.53-.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Granito" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m637.78 259.5.12.86.34.24.3.37v.81l.22.3-.22.38-3.34.74-.93-3.92.87-.43.68.09.27.22.6-.15.56.39z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Gravatá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m710.38 270.06-.85.5.18.17-.04.22-1.5.4.37-.52-.54-1-.13-1.5-.07-.77.45-.97.83-.45 1.28-.38.86.65-.3.18.72.4-.18.76-.67.19.06.3-.52.46z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Iati" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m686.15 287.3-.6.35-.4.96v.49l-.32.06-.44-.38-.42-.12-.37-.65-.55-.15.33-.56 1.12-.55.38-.58.1-.45-.53-.5-.15-.51.8-1.1.26-.74.42-.5.3-.96-.07-.17.4-.8v.02l1.4 2.1-.27 1.39.3.48.27.42-1.83.54-.19 1.7z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ibimirim" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m677.51 272.13-.38 1.64-.38 5.37-1.04-.55-.37-.02-.3.37-.83.3-.64.22-1.07-.78-.16-.43.06-.58-.23-.3-.52-.1-.94.02-.9-.28-.32.16-.55-.13-.5-.46.51-1.32 1.15-3.2 1.71-.32 1.62-1.37-.1.75-.24.14v.79l.68-.15.41.14.31.33.52.17.52-.01.37.34.44-.08.91-.74z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ibirajuba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m700.03 275.2-1.06.69-.48.6-.09.83-.14.01-.94-1-.36-.55-.43.13.34-1.23h.11l.67.2 1.08-.49z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Igarassu" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m721.34 261.24.79.26.07.5v.28l-.45.53-.64-.09-1.32.25-1.36-.35.31-.22.07-.76.21-.19-.34-.36.01-.46-.26-.32-.67-.17-.14-.3.03-.14.93.52 1.3-.27.18-.37.66-.29.04-.02-.35.56.13.92.21.6z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Iguaracy" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m681.01 261.21-.22-.17-.6.28-.1.52-.43.2.05.47-.76.53h-.29l-.09.53-.73.26-.23.15-.7.01-.4-.3-.86.44-1.02.1-.17.13-.35.23-.29-.55.4-.29.06-.36-.6-.58-.55.1v-.04l.2-.76.5-.42.21-.38.71-.72-.23-.84.3-.14-.02.16.72.55.03.4.46.41 1.07-.4.66-.07.31-.7.26-.17.82-.12.46.1.17.41.97.06.2.2z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Inajá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m668.96 275.25-.52 1.32.5.46.55.13.32-.16.9.28h.94l.52.1.23.28-.06.58.16.43 1.07.78.64-.22-1.41 1.46-1.12.6-.75-1.06-.24-.53-.77.52-.48.22-.01.78-.73.47-.43.08-.73.61-.5.03-.3.35-.48-1-.01-5-.33-.49.56-.09.32.18.39-.1.03-.3.34-.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ingazeira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m677.38 258.14.52.42-.06.52.48.71-.26.17-.31.7-.66.07-1.07.4-.46-.4-.03-.4-.72-.56v-.16l.39-.2.43-.52.75-.08.32-.38z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ipojuca" fill="#ccccb8" stroke="#000" stroke-width=".25" d="M720.08 271.23v.5l-.74 1.8-.08 1.15-.47.17-.26.67-.3-.22-.22-1.2-.86-.17-.34-.53-.39-.2h-.62l-.62-1.07.8-.73v-.33l.4-.05.28-.6.25-.2.56.42.52.02.21.27.36-.02.4.26.66-.18z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ipubi" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m626.73 252.69.82.7.68.25.94 5.57-1.04.28-.87-.45-.47.14-.6-2.17-1.3-4.12.62-.51h.85z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Itacuruba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m654.1 280.99-.23-1-.6-.31-1.19-1.01-.84-.05.02-1.05.18-.53 3.8-1.32v0l-.02 1.1-.4.8-.2 1.39.11.4-.08 1.22z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Itaíba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m682.25 281.71.03.2-.3.7-.7.75-.12.35.03 1.18-.44 1.07-.23.26-.54.2-.32-.84-.55-.47-.32-.56-.55-.49-.55-.69-.65-.46-.37-.38-.92-.14-.42-.2-.12-.32-.36-.02-.1-.08.12-.44.32-.16.18-.75.23-.23.5.12.42-.4.23-.77.82-.03.33.36 1.63-.36.28.23.2.73.57.8.46.5z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ilha_de_Itamaracá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m722.13 261.5-.8-.26.1-.65.39-.66v-.28l.25-.42.3.22.15.9z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Itambé" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m716.67 254 .81.23.66-.12.72.48.78.64-1.63.91.3.5-.64.04-.5-.11-.25-.45-.3-.18-1.23-.85-.2-.23-.63-.64-.9.28-.16-.1.42-.1.51-.38.56-.23.56.1.46.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Itapetim" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m680.9 252.53.16.4.58.26.87.2.33.45.25-.07.5.11.2.32-.17.53.68.74-.32.36-.4.01v.01l-1.77-.3-.6.27-.05-.44-.4-.32-.3-.7-.43.01-.4-.3-.37-.06-.22-.42.17-.75.2-.34.02-.59h.47l.35.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Itapissuma" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m721.83 259.64-.01.28-.38.66-.1.65-.58.11-.21-.59-.13-.92.35-.56.3-.13.34.55z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Itaquitinga" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m720.73 259.3-.66.29-.18.37-1.3.27-.93-.52.12-.4-.54-.4.6-.53.27-.38z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Jaboatão_dos_Guararapes" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m721 267.49-.16 1-.19.24-.25.3-.32-.42-.29.22-.53-.44-1.02.29-.02-.38-.55-.7.7-1.3.05-.36.68-.21.76.4.22.3.15.77.69.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Jaqueira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m705.7 278.29-.81.23-.07.38-.4.13-.25-1 .28-.62.43-.13.13-.6-.08.36.7.28.46-.2.12.4z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Jataúba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m692.23 263 1 .41.6-.15.04.08 1.12.99-1.12 3-.83-.23-1 1.36-.6-.08-.45.12-.7-.07-.73-.93-.12-.26.51-.31.64-.22-.33-.35-.1-.37.43-.23.02-1.25.27-.66.45.16.25-.4.02-.56z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Jatobá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m662.15 288.25-.23-.7-.65-1.3.13-.28-.15-.5-.43-.42 1.91-.8.1.85 1.9.37-.41.45-.5.35-.22.57-.41.73-.42.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="João_Alfredo" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m710.49 261.38-.12.9-.26.38.08.4-.72-.28-.45.11-.51-.28-1.16.54-.2-.22.08-.88.07-.06 2.03-.16.88-.6z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Joaquim_Nabuco" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m710.54 273.55.22.14-.59.9-.05.4.2.98-.44.41-.1-.27-.48-.24-.3-1.98.32-.34.48-.24.48.35z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Jucati" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m693.78 276.37.84 2.12-.36.3-.4.1-.75-.08-.51-.45.02-.66.48-.51.35-.23z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Jupi" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m695.9 278.88-.23.03-1.03-.18-.01-.25-.84-2.12 1.16-.4v.01l.23.92-.04 1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Jurema" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m700.38 278.37-.27.1-.53 1.06-.48-.15v-.34l-.5-.43-.72.16.52-1.44.1-.83 1.02.89.85.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Lagoa_do_Carro" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m714.27 262.52-.84.37-.33-.09-.25-.53-.33-.17-.3-.45.51-.11.31.18.43-.11.76.1.16.2z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Lagoa_de_Itaenga" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m715.13 262.75-.15.15-.12.82-.85-.02-.34-.17-.56-.73.33.1.84-.38.37.32z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Lagoa_do_Ouro" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m694.59 286.37-.51-.2-.54.48-.44.02-.23.4-.12-.5-.24-.2-.1-.69.26-.83-.34-.6.92-.31.23-.14.41-.1.48.27z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Lagoa_dos_Gatos" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m705.07 276.63-.06.04-.13.6-.43.14-.28.62-1.02-.04-.85-.11-.21-.3.1-.96.45-.75.88-.3.79-.1.34.43.47.32z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Lagoa_Grande" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m627.53 273.79.54.66v.44l.6.59.55.08.47.36.1 2.08-.5 3.66.19-.11.87.5.23 1.4.34.03-1.07.05-.21.27-.93.56-.53-.04-.87-.78-.6-1.1-.3-.19-.42.31-.24-.24.02-.99.39-.14.02-.52-.68-.69h-.66l-.35-.88-.41-.17-.18-.86.16-1.09-.65-.85-.3-.45.24-.28.28-.77.67-.55.14-.47.44.13.3.14 1.05-.13.25-.23.32.25.54-.14z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Lajedo" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m698.26 277.33-.42.03-.54 1.3-2.34-2.69h-.01l.9-.37 1.03-.92-.34 1.22.43-.13.35.55z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Limoeiro" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.58 264.06-1.02-.73-.25.33-.12-.6-.08-.4.26-.38.12-.9.47-.22-.14-.34.05-.62.44-.52.68.13.1.34-.45.17.57.45v.87l.31.45.33.18.25.53-1.06.6z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Macaparana" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.7 255.38.33.44.2 1.05-.42 1.1-.37-.26-.03-.43-.25-.48-.42.1-.22-.78.12-.5.79-.55z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Machados" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.51 259.3-.69.66-.74.35-.39-.57.48-.37-.14-.3.26-.4z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Manari" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m676.75 279.14-.23.77-.42.4-.5-.13-.23.23-.18.75-.32.16-.12.45-.54.12-.7-.03-.6.56-.5-.14-.72-.83-.02-.16 1.12-.6 1.41-1.45.83-.3.31-.36.37.02z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Maraial" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m706.64 278.9.84 1.14-.88.77-.45.14-.6-.35.13-.6-.34-.28-.57.4-.32.04-.04-1.14.4-.13.07-.38.81-.23.58-.28.31.16z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Mirandiba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m655.78 267.08.15-.08.94 1.82-.35.61.12.4-.39.2-1 .2-.38-.35-1.58-.8-1.3-.19-.32-.25-.36.08-.5-.28.22-.37-.04-.33-.65-.2-.55-.6.47-.67.5-.62.08-.73.84.11.92-.24.7.35.83.76.07.61.32.03.2.48.42.28z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Moreno" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m718.37 266.3-.7 1.3.55.7.02.38-.23-.06-.56-.52-.69-.1-.29.59-.89-.53-.18-1 .52-.91.73.19.54-.21.4.18z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Nazaré_da_Mata" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m716.63 259.6-.66.87-.97.67-.07.23-.92-.76.8-1.6.32.38.52-.28.47.12z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Olinda" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m722.43 264.01-.26.95-.32.56-.22-.48-.78-.5.06-.17.88-.08.15-.35z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Orobó" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m710.3 258.68-.26.4.14.29-.48.37-.66.45-.5.7-.45-.43-.48-.37-.24-.59.85-.4.21-.33.57-.21.5.2.58-.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Orocó" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m640.26 275.23-.75.19-.68.34-.2.24-.81.37-.56.04.05-2.5-.2-.72-.32-.38.03-1.25-.25-.27.03-.37 2.01-1.78.51 1.57-.19.3-.25 1.06.26.86.65.9.65.36z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ouricuri" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m629.16 259.2.36 2.16 1.14-.29.68.21.78.36.15.51-.22.66.13.42.4.45.12.65.9.9-1.55 1.94v.48l.45 1-1.03-.04-.52-.45-.06-.4-.8.02-.46-.34-.9.02-.86.44-.35.74h-.38l-.26-.83-.41-.6.47-.55.14-.59-.38.03-.5-.23-.8-.12-.51.24-.15.3-.47-.23-.55.15-.3-.24-.1-.67-2.5-.02v0l.27-.59h.6l.13-.8.43-.59.67-.47.06-.27 1.93-.5 1.9-.53-.02-2.36.47-.14.87.45z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Palmares" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m709 273.9.3 1.98.48.24.1.27-.48.44.12.6-.79.44-.06.59-2.02.45 1.02-1.1-.07-.19-.72.02.69-1.08-.47-.64.3-.47-.28-.15-.08-.89 1.5-.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Palmeirina" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m699.75 282.74-.18.18-.54.26-.77.04-1.02.25-.74-.17-.83.06-.31-.1-.12-.51-.2-.52.9-.23.37-.4.89-.01.39-.34-.13.32-.06.86.45.09.32.26 1.06.18z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Panelas" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m701.77 274.42.47 1.2.4.25-.45.75-.1.96.2.3.01.14-.35.53-.73-.09-.5-.38-.35.28v-.88l-.86-.1-1.02-.89.48-.6 1.06-.7.28-.18z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Paranatama" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m690.88 280.76.1.63-.43.26-.33-.4-1.03.12-.48.15-2.3-1.07h0l-.05-.02.33-.1 1.27.8.5-.63-.48-.1.32-.92 1.62-.03-.08.4.34.2z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Parnamirim" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m642.3 265.63-.65.41-.3.81-.38.56-.58-.15-.17.23-1.04.45-.1.42 1.08.34.32.26-.54.16-.8-.17-.52.2-2.01 1.78-.03.37.25.27-.03 1.25-.13-.31-.6-.52-.2-.5-.35-.18-.05-.42-1.08-.32-.75.1-.83.67-.74-.15-.42.23-.84-.37-.2.3-.37-.16-.7.12-.47-.41.38-.2-2-1.44.06-.62.35-.74.86-.44.9-.02.46.34.81-.03.06.41.52.44 1.03.04-.45-.98v-.48l1.54-1.94 1.6-2.04 3.34-.74.27.96-.15.42-.03.7 2.03-.66-.58.97.05.56.3.32.51.06z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Passira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.58 264.06-.27.49-.15.75.47.15.17.73-.58.23-.86-.65-1.28.38-.83.45-.34.02-.02-.57-.25-.46.44-.1.12-.3.4-.23-.77-1.2.6.02.34-.16.38.19h.73l.43-.14.25-.33z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Paudalho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m718.85 263.5.03.08-.13.1-.66.2-.45.38-1.01-.05-.18.13-1.03-.38-.56-.23.12-.83.15-.15.47.03-.2-1.15 1.43.04.09-.6.32 1.02.39.57.9.47z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Paulista" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m722.43 264.01-.49-.07-.15.35-.88.08.08-.62-.69-.26-.35.22-.57-.22-.5.09-.04-.08.22-.24 1-.01.98.36.23-.4.57-.06-.09-.33.45-.53V262l.3.69.07.73z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Pedra" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m688.04 277.69-.02.52.27.23-.35.48.35.57-.32.92.48.1-.5.63-1.27-.81-.33.1-.58.39-.7-.2-.92-.02.4-3.28-.32-2.72-.23-.28h-.8l-.44-.13.86-.63.35-.58.36-.27.67-.11.4.35.38-.43.38.28.36-.05.67-.62-.02.09-.45.76-.19.82-.29.52-.54.47.08.24-.2.54 1.26.92.43.45.55.35z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Pesqueira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m691 268.5.8 1.25-.75.52-.44.58.78 2.07.45.77-.92.75-.07.15-.84.65-.45.7.22.42-.27.22-.62-.38-.07-.73-.53-.14.58-.7.23-.47.64-.13-.44-1.85-1.46.03-.54.14-.1-.23-.68.62-.36.05-.38-.28-.45-.23-.39-.53.06-.4.63-1.39.02-.75.82-.54.87-.3.44-.28-.5.8.23.74.53-.3.97.2 1.38.12z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Petrolândia" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m665.2 276.85-3.01 3.02.38.56.16 1.1-.13.53.14 2.2-1.91.79-.15-.56.27-.27-.36-.36.4-.35.25-.44-.6-.82-.7.19-.72.64-.8-.2-.96-.79-.2-.38.06-.62.56-.4.17-.65.21-.44.85-.42.62-.48.94-.38.28-.25h.65l.16-.82.47-.35.76-.2.64.34 1-.03z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Petrolina" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m623.4 276.13.65.85-.16 1.1.18.86.41.17.35.88h.66l.68.69-.02.52-.39.14-.02.99.24.24.42-.31.3.19.6 1.1-.53-.16-.6.49-.36 1.14.13.69-.42 1.58-.49 1.05.07.27-.4.47-.62-.09-.48-.35-.37.28-.5.93-.76-.24-.55.34-.25.56-.77.21-.42.23-1.03-.28-.6-.32-.92-.06.06-.52.38-.23-.06-.57.16-.6-.34-.39.3-.32.35.16.2-.33.38-.16.12-.33-.23-.5.4-.8.05-.47-.32-.38-.43.05-.4-.29-.45-.1-.3-.3-.51-.06-.3-.32-.23-1.23-.32-.53.01-.46-.27-.55-.26-.14-.27-.79-.44-.62-.67.11.26-.3v-.65l.33-.32.26.1 2.7-2.69 3.17.77z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Poção" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m689.57 267.5.72.93.7.07-.6 1.16-1.37-.13-.97-.2-.53.3-.23-.74.5-.8.46.13.2-.37z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Pombos" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m712.91 270.02-.19-.53-.46-.2-.2.2-.44-.28.18-.64-.12-.55-.23-.27.18-.76-.72-.4.3-.18.58-.23v0l1.52.65.46 1.1-.37 1.73z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Primavera" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.63 269.2.44.28.2-.2.46.21.19.53.13.03.26 1.34-.36.34.4.3-.07.27-.74-.18-.32.18.57-.83-.75-.9-.9-1.22z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Quipapá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m702.3 278.01.2 1.1.08 1.4-.67.21-.3.16-.48-.08-.5-.24-1.13-.93.08-.1.53-1.06.27-.1.35-.29.5.38.73.08z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Quixaba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m670.48 258.69-.28.47-.27 1.25-.86.85-.58-.4-1.38-.25.64-.93.32-.27.4-.26.42-.56.83-.14.43-.32z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Recife" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m720.91 264.38-.06.16.78.5.22.48-.85 1.97-.09-.18-.69-.11-.15-.77-.22-.3-.76-.4.36-.33.54-.3.06-.81-.73-.26.06-.54.57.23.35-.22.7.26z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Riacho_das_Almas" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m706 264.3-.04.66-.46.05-.24.46-.72.54.08.76-.21.7-.72.32.14.6-.66-.34-.09.29-.95-.65-.16-.4 1.23-2.46.65-.26 1.3-.3z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Ribeirão" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m713.27 272.3.26.16.27.75.46-.26.3.42.08.74-.22.55.23.64.06.6v0l-.6-.54-.62-.42-.4-.62-.6.23-.67-.26-.02-.55-.59.07-.15.59-.3-.71-.22-.14v-.35l.8-.28.17-.2.36-.43.34.02.32-.18z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Rio_Formoso" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m717.58 276.88.1.74-.77.12-2.17-.86-1.38.68v-.35l-.3-.27.27-.66.6-.43.79.04v0l.3.4.62-.07.5-.82.77.75.26.03z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Sairé" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m707.87 268.33.13 1.5.54 1-.37.52-.37.07-.8-.09-.38.26-.29-.87.16-.42-.5-.43.69-.73.13-.43z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Salgadinho" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m710.18 263.06.12.6-.43.14h-.73l-.38-.2-.33.16h-.6l.04-.2-.53-.4 1.16-.54.51.28.45-.11z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Salgueiro" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m648.36 261.43.05.22-.7.8-.12.5-.28.09.04 1.09-.34.5-.16.62.52.91.16-.35.67-.05.25.31.3-.23.5.5 1-.06-.47.67.55.6.65.2.04.33-.22.37.51.28.36-.09.32.25-.49.72-1.26.97-.3.47-1.16-.03-.05.34-.88.1-2.87-2.7-.72-.23-.92.24-.28-.8.36-.52.1-.74-.42-.33.3-.87.16.1.9-.42.03-.56.23-.5.06-1.13 1.31-1.31.07-.5.46-.4.24-.1.26 1.1.36.16.24-.4z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Saloá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m690.55 281.65-.1.53.2.28-.2.32h-.9l-.3.01-.62.72-.18.46-.47.2-.13.25-.31-.48.27-1.38-1.4-2.1 2.3 1.06.48-.15 1.03-.12z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Sanharó" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m692.68 271.85.04.92-.88.93-.45-.77-.78-2.08.44-.58.75-.52.53-.77.4-.16.4.39-.23.63-.47.34.42.3.3-.17-.16 1.23z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Santa_Cruz" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m627.51 268.64-.06.62 2 1.44-.38.2-.44.22-.33.8-.45.23-.34.8.12.42-.1.42-.2-.15-.54.14-.32-.25-.25.23-1.05.13-.3-.14-.19-.23.07-.51-.2-.64-.27-.26-.98-.47.04-.66-.47-.8.25-.58.3-3.62.3.24.54-.15.47.22.15-.3.52-.23.8.12.5.23.37-.03-.14.59-.47.54.41.6.26.84z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Santa_Cruz_da_Baixa_Verde" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m664.03 261.13.2.41-.49.45.13.67.36.46-.77-.06-1.32.02.27-.36-.03-.4.32-.44-.27-.32 1.03-.7z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Santa_Cruz_do_Capibaribe" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m697.05 261.76-.05.65.41.42 1.3.84.08.46-.22.05-.88-.24-.63-.02-.5-.18-.6.44-1.34-.54-.39-.28-.37-.03-.04-.07.3-.53v-1.05l.53-.29.64-.08 1.08.04z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Santa_Filomena" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m623.42 265.98-.3 3.62-.25.59.47.79-.04.66-.3-.47-.75.12-1.38-.13-.87.1-.65.19-.78-.56-.24.07-.7-.44-.13-.42-.28-.12-.07-.6.34-.32.49-.28.46-.05.18-.4.98-.8.22-.32.5.18.26-.21-.25-.6.09-.4.4-.9 2.5.03z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Santa_Maria_da_Boa_Vista" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m636.8 272.81.32.38.19.72-.05 2.5-.75.02-.08.35.34 1.14v.7l-.38.26-.93-.1-.72.45-.55-.1-1.3.26-.14.62.39.67.09.62-.26.51-1.18 1.42-.4.15-.47.1-.34-.04-.23-1.4-.87-.5-.2.11.52-3.66-.1-2.08-.48-.36-.55-.08-.6-.59v-.44l-.53-.66.1-.42-.12-.42.34-.79.45-.23.33-.8.44-.23.47.41.69-.12.37.16.2-.3.84.37.42-.23.74.16.83-.67.75-.1 1.08.32.05.42.36.18.19.5.6.51z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Santa_Maria_do_Cambucá" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m703.82 260.62.5.33.12.42.42.89-.91.07-.67.28-.06-.59-.5-1h.8z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Santa_Terezinha" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m676.4 253.37.38.4h.76l.06.53-.22 1.13-.85.54-.45.55-.03-.44-.67-.84-.57-.4.6-.9-.15-.43z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_Benedito_do_Sul" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m704.16 278.02.25 1 .04 1.14-.28-.24-.9.04-.23.41-.46.14-.08-1.4-.2-1.1v-.14l.84.11z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_Bento_do_Una" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m695.33 271.63.1.64.62 1.1.24.77-.37.7-.07.77-.9.35-1.16.4-.34.6-.35.22-.26-.43-.56-.37-.15-.63-.45.25-.35-.65-.28-.1-.2-.66.07-.15.93-.75.88-.93-.04-.92.53.1.19-.3.6.15.2-.2z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_Caitano" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m700.6 271.5-.63.01-.58.32-.05.48-1.48 1.05-.12-.6.12-.67-.26-.26.41-.84-.32-1.24.75-.49-.15-.35.96-.77.3-.09.85.96.23 2.14z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_João" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m695.66 278.9.47.74-.12.45.3 1.5-.37.4-.9.23-.4-.58.04-.3-.32-.57-.58-.43-.25-.66.32-.79.41-.1.36-.3.01.24z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_Joaquim_do_Monte" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m706.04 271.55-.1.99-.44.39-.65-.05-.26.3.35.41-.14.44-.53.24.3.7-.2.25-.41-.02-.2-.26.08-.52-.39-.58.24-.28-.28-.63.02-.5-.3-.24.04-.41.26-.24.78-.16.24.06.12.17 1.16-.26z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_José_da_Coroa_Grande" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m717.09 279.99-.4.9-.33-.4-.67.02-.46-.15-.45-.5 2.18-.46-.04.25z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_José_do_Belmonte" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m653.72 258.06.5.23 1.08 1.08.32.77.25.26-.53.58-.07.61 1.27 1.47-.04.62-.88 1.72-.23 1.09.4.6-.65.22-.41-.28-.21-.48-.32-.03-.07-.61-.83-.76-.7-.35-.93.24-.84-.11-.2-.8-.33-.16-.06-.5-.66-.63-.24-.85.4-.93v-.58l.8-.14.23-.06.21-.63.73.14.23-.4-.16-.33 1.12-.4.32.08.2-.47.26-.12z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_José_do_Egito" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m679.25 254.01.38.06.4.3.44-.02.29.71.4.32.05.44.6-.28 1.77.31-.95.34-.69.32-.8.71-.6 1.07.04.3.6.81.2.33-.26-.22-.44.16-.49-.37-1.55-1.58-.73.01-.54.41-.68.3-.39-.84.16-.66-.38-.41.45-.55.85-.55.21-1.13-.06-.53.96-.23.42.51z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_Lourenço_da_Mata" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m719.46 265.4-.36.33-.68.2-.05.36-.77.01-.4-.18-.54.21-.73-.19-.15-.73-.34-.3.34-.17.67-.6.18-.14 1 .05.46-.38.66-.19.1.32.39.24-.14.32.1.84z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="São_Vicente_Férrer" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m711.43 257.71-.23.26.32.57v.76l-1.22-.63-.22-.2-.09-.42.23-.3-.33-.43.28-.69.34-.5.22.76.42-.09.25.48z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Serra_Talhada" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m660.87 260.13.26.64-.12.29.16.56.32.2.65-.07.3-.18.26.32-.32.44.03.4-.27.35 1.32-.02-.08.42.33.3.92 1.92 1.22 1.4-.6.26-.78.69-.22.6-.59.05-.39.42-.08.52-.49.15-1.03-.55-.46.55-.42.1-.94-.18-.69.44-.19.63-.57.46-.34.6-.8.66-.06-.67.23-.76.1-.66-.14-.24-.75-.33-.12-.4.35-.61-.94-1.82-.15.08-.4-.6.23-1.08.88-1.72.04-.62-1.27-1.47.07-.63.53-.58.52.05.37-.14.82.02.11-.27.6-.3.4.04.43.18.97-.92.5.27.25.4z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Serrita" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m643.97 258.81.15.64-.43.88.2.68 2.74-.22-.46.4-.07.5-1.31 1.3-.06 1.13-.23.5-.03.56-.9.43-.16-.1-.7.2-.4-.08-1.37.16-.52-.06-.3-.32-.04-.56.58-.97-2.03.65.03-.69.15-.43-.27-.96.22-.37-.22-.3v-.8l-.3-.38.39-.48.68.07.5-.28-.14-.52.32-.5.66-.29.2.11.62-.49.29-.4.39.2 1.1.8z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Sertânia" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m677.85 263.83.17.55.86-.26 1.28.14 1.04.43.18.47-.15.48.26.66v.66l-.26.24-.02.56.59.06.07.62.39.44.35-.21-.03.7.75.08.34.42-.2.17-.28.86-.41.1-.55.54-.83.34-.67.3-.64-.27-.46-.26-.56-.04-.5.2-.95.1-.1.23-.26-.1-.91.75-.44.08-.37-.34h-.52l-.52-.16-.31-.33-.41-.14-.7.15.02-.8.23-.13.1-.75 1.04-1.47.03-.34.4-.52v-.34l-.28-.56.04-.8.34-.58-.53-1.4.17-.12 1.02-.1.86-.45.39.3h.7z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Sirinhaém" fill="#ccccb8" stroke="#000" stroke-width=".25" d="M715.8 273.2h.62l.4.2.33.53.86.16.22 1.2.3.22-.4.72.01.32-.3.4-.26-.08-.41-.69-.26-.03-.76-.74-.51.82-.62.07-.3-.4-.06-.6-.23-.64.22-.55-.08-.74.58-.22z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Moreilândia" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m640.76 257.18.43.26.05.29.51.09-.29.4-.6.5-.22-.11-.66.29-.32.5.15.52-.5.28-.69-.07-.38.48-.34-.24-.12-.86.2-.52-.2-.54.3-.65.47-.32.35-.43-.17-.44.3-.53v-.46l.76-.35.74.13.1.54-.53.55.2.7z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Solidão" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m673.08 256.37.64 1.3.44.7-.93-.23-.4.22-.31-.38-.94-.01-.72-.13.19-.21.1-.31.4-.18v-.34l.43-.04.47-.44z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Surubim" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m706.09 261.37.79.4.36.28-.08.87.19.23.53.4-.05.2-.62.27-.91.11-.3.16-.84-.02-.22-.29.17-.72-.25-1-.42-.9.77-.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Tabira" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m676.09 256.52.38.41-.16.66.39.85-.32.38-.75.08-.43.5-.38.21-.3.14-.34-.55.13-.37-.15-.47-.44-.7-.64-1.3.18-.32.67-.34.78-.42.1-.45.57.41.67.84z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Tacaimbó" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m697.75 272.76-1.98-1.04-.44-.1.46-1.19.03-.46 1.44-.36.8-.7-.02-.19.25.2.15.34-.75.5.32 1.24-.4.84.26.26z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Tacaratu" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m669.42 281.23-.22.8-.25.4-1.5 1.4-.24.32-.48.88-.59.15-.96.32-.46-.02-1.89-.37-.1-.85-.14-2.2.13-.52-.16-1.11-.38-.56 3.01-3.02.3.02.16-.48.26-.11.33.49.01 5 .5 1 .28-.35.5-.04.73-.6.43-.08z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Tamandaré" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m717.58 276.88.26.08.16.23-.13.76-.31.33.02.34-.4.28-.48-.46-.7-.02-.56-.36-1.07.63-.57.05-.8.25.38-1.04-.02-.4 1.38-.68 2.17.86.77-.12z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Taquaritinga_do_Norte" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m699.47 260.93 1.03-.06.83.52.33.05-.24.44.06 1.03-.31.32-.36.76-.35.41-.47.42-.25-.14v-.44l-.95-.1-.08-.46-1.3-.84-.4-.42.05-.65.4-.25-.25-.37.67-.57.33.46.25-.11z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Terezinha" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m692.28 284.21-.53.31-.8.05-.33-.13-.52.23-.89-.25.31-.79.02-.86.9.01.65.22.4.56.55.24z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Terra_Nova" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m643.07 267.96-.71.24-.57 1.03-.45-.24-.55.1-.32-.14-.3-.26-1.08-.34.08-.42 1.04-.45.17-.22.58.15.38-.56.31-.8.65-.42.41.07.7-.2-.3.87.41.33-.1.74z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Timbaúba" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m713.34 254.53.52.99.13.39.83.16.47-.08.43.3-.83.4-.32.82-.62.37-.73-.02-1.1.15-.32-.05.42-1.09-.19-1.05-.33-.44.18.07.7-.44.4-.12z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Toritama" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m701.5 264.52.01.3-.56.04-.7.28-.27-.31.47-.42z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Tracunhaém" fill="#ccccb8" stroke="#000" stroke-width=".25" d="M717.24 258.9v.02l.54.38-.12.4-.03.14-.18.46-.53.76-.1.61-1.43-.04-.45-.27.07-.22.97-.67.66-.87-.03-.37z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Trindade" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m624.9 262.06-.15-.42-.1-2.04 1.54-2.6.6 2.17.02 2.36z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Triunfo" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m666.35 260.83-.36.22.2.46-.05 1.12-.23.45-.48.27-.6.05-.6-.28-.36-.46-.13-.67.5-.45.76.2.13-1.03.53-.42z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Tupanatinga" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m680.09 271.9-1.4 4.2.21.33.03.63.54.78.8.04.92.41.33.6.38.2.64.76-.07.72.12.4-.35.74-1.2-.34-.47-.5-.56-.8-.2-.74-.29-.23-1.62.36-.33-.36-.82.04.38-5.37.38-1.64.1-.22.96-.1.5-.2.55.03z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Tuparetama" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m681.38 259.74.2.5-.23.6-.33.38-.08-.77-.2-.2-.98-.06-.17-.41-.46-.1-.82.12-.48-.71.06-.52-.52-.42.54-.41.73-.01 1.55 1.58.5.37.43-.16z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Venturosa" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m688.3 275.33.53.14.06.73.62.38-.22.95-1.25.15-.22-.4-.55-.35-.43-.45-1.26-.92.2-.54-.07-.24.54-.47.29-.52.19-.82.45-.76-.07 1.43.69.72.07.8z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Verdejante" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m649.27 262.01.07-.03.24.85.66.64.06.5.32.17.21.79-.08.73-.5.62-1 .06-.5-.5-.3.24-.25-.31-.67.05-.15.35-.52-.91.16-.62.34-.51-.04-1.1.28-.07.12-.51.69-.8-.05-.22.3.49z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Vertente_do_Lério" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m705.42 260.15.41.55.25.66-.88-.1-.77.1-.12-.42-.5-.33v-.2l.99-.1z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Vertentes" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m702.72 261.02.5 1 .06.58v.28l-.8.06-.17.17.04 1.05.1.4-.84-.24-.1.2-1.05-.12.35-.4.36-.77.3-.33-.06-1.03.25-.44.78-.45z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Vicência" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m714.57 257.51.27.93-.03.56-.65.63-.46-.14-.6.11-.25-.25-.26.5-.5.3-.1-.33-.47-.51v-.76l-.32-.57.23-.26.37.25.31.05 1.11-.15.73.02z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Vitória_de_Santo_Antão" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m715.43 265.12.34.3.15.73-.52.92.18.99-.46.45-.24-.18-.18.7-.2.76-.43.4-.69-.23-.34.1-.13-.03.5-.37.36-1.73-.46-1.1-1.52-.65.73-.12.76-.4.84.34.66-.23z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+
+<path id="Xexéu" fill="#ccccb8" stroke="#000" stroke-width=".25" d="m709.1 279.7-.88.62-.35.01-.34.26-.92.22.88-.77-.84-1.14 2.03-.44-.12.68z" data-originalStrokeWidth="0.25" style="shape-rendering: auto; stroke: rgb(0, 0, 0);"></path>
+
+</svg>
